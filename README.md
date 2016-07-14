@@ -1,7 +1,7 @@
 # GA-DSI-Project6
 Ensemble Methods with IMDB Data
 
-# Problem Statement
+# Summary
 Given the text of an IMDB review and some attributes of the film being reviewed, I have built several models to predict the numeric rating of the review.
 
 To approach this problem, I used all reviews from IMDB's top 100 movies that have a non-null rating attached to them. The models incorporate the words or word pairs that best differentiate between reviews, along with the movie's genre(s), release year and runtime as features.
